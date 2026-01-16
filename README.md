@@ -55,12 +55,13 @@ LocalStorage persistence
 🔧 Installation & Setup
 
 1. Clone the repository
-  git clone https://github.com/your-username/react-movie-app.git
+  "git clone https://github.com/your-username/react-movie-app.git"
 
 2. Navigate to the project folder
-  cd react-movie-app
+ "cd react-movie-app"
 
 3. Install dependencies
-  npm install
+  "npm install"
+  
 4. Run the development server
-  npm run dev
+  "npm run dev"
